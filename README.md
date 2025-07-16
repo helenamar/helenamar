@@ -24,8 +24,7 @@
 
 <p align="left">
   
-✨ Atualmente estudando front-end...<br>
-📚 I'm currently learning ...<br>
-🎯 Goals: ...<br>
-🎲 Fun fact: ...</p>
+✨ Atualmente estudando JavaScript<br>
+📚 Entusiasta em Segurança, Dados e TI Governamental<br>
+
 
