@@ -21,7 +21,6 @@
   <img width="12" />
 
 </div>
-###
 
 <p align="left">
   
@@ -30,4 +29,3 @@
 🎯 Goals: ...<br>
 🎲 Fun fact: ...</p>
 
-###
