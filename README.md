@@ -1,4 +1,7 @@
-<h1 align="left">Hey! What's up?</h1>
+<p align="left">Olá, eu sou a Mayara Helena! 🔭</p>
+
+###
+</h1>
 
 ###
 
@@ -18,15 +21,6 @@
   <img width="12" />
 
 </div>
-
-###
-
-<p align="left">Olá, eu sou a Mayara Helena! 🔭</p>
-
-###
-
-<h2 align="left">About me</h2>
-
 ###
 
 <p align="left">
