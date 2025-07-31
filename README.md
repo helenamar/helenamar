@@ -8,7 +8,7 @@
 
 <p align="left">
   
-✨ Atualmente estudando Front-End | JavaScript<br>
+✨ Atualmente estudando Front-End | JavaScript<br> | Node.Js | Bootstrap | React
 https://projeto-arturito.vercel.app/index.html
 
 
