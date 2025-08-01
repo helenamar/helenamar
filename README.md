@@ -11,5 +11,5 @@
 ✨ Atualmente estudando Front-End | JavaScript | Node.Js | Bootstrap | React <br>
 Este é meu atual projeto front-end utilizando Ejs, Express e Node.Js <br>
 
-<a href="https://projeto-arturito.onrender.com/" target="_blank" aria-label="projeto-arturito-render">
+https://projeto-arturito.onrender.com/
 
