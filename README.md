@@ -1,15 +1,6 @@
-<p align="left">Olá, eu sou a Mayara Helena! 🔭</p>
+Olá, eu sou a Mayara Helena! 🔭
 
-###
-</h1>
+✨ Atualmente estudando Front-End | JavaScript | Node.js | Bootstrap | React  
+Este é meu atual projeto front-end utilizando HTML, CSS, JavaScript, EJS, Express e Node.js.  
 
-###
-</div>
-
-<p align="left">
-  
-✨ Atualmente estudando Front-End | JavaScript | Node.Js | Bootstrap | React <br>
-Este é meu atual projeto front-end utilizando html, css, javascript, ejs, express e node.Js <br>
-<a href="https://projeto-arturito.onrender.com/" target="_blank" rel="noopener noreferrer">projeto-arturito.onrender</a>
-
-
+<a href="https://projeto-arturito.onrender.com/" target="_blank" rel="noopener noreferrer">Projeto Arturito</a>
